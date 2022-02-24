@@ -1,0 +1,13 @@
+C:\Users\brady\source\repos\WalshLab4\bin\Debug\netcoreapp3.1\WalshLab4.exe
+C:\Users\brady\source\repos\WalshLab4\bin\Debug\netcoreapp3.1\WalshLab4.deps.json
+C:\Users\brady\source\repos\WalshLab4\bin\Debug\netcoreapp3.1\WalshLab4.runtimeconfig.json
+C:\Users\brady\source\repos\WalshLab4\bin\Debug\netcoreapp3.1\WalshLab4.runtimeconfig.dev.json
+C:\Users\brady\source\repos\WalshLab4\bin\Debug\netcoreapp3.1\WalshLab4.dll
+C:\Users\brady\source\repos\WalshLab4\bin\Debug\netcoreapp3.1\WalshLab4.pdb
+C:\Users\brady\source\repos\WalshLab4\obj\Debug\netcoreapp3.1\WalshLab4.csprojAssemblyReference.cache
+C:\Users\brady\source\repos\WalshLab4\obj\Debug\netcoreapp3.1\WalshLab4.AssemblyInfoInputs.cache
+C:\Users\brady\source\repos\WalshLab4\obj\Debug\netcoreapp3.1\WalshLab4.AssemblyInfo.cs
+C:\Users\brady\source\repos\WalshLab4\obj\Debug\netcoreapp3.1\WalshLab4.csproj.CoreCompileInputs.cache
+C:\Users\brady\source\repos\WalshLab4\obj\Debug\netcoreapp3.1\WalshLab4.dll
+C:\Users\brady\source\repos\WalshLab4\obj\Debug\netcoreapp3.1\WalshLab4.pdb
+C:\Users\brady\source\repos\WalshLab4\obj\Debug\netcoreapp3.1\WalshLab4.genruntimeconfig.cache
