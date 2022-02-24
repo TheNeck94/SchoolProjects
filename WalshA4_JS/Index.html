@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta title="A2_Tabs AL,BW">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" type="text/css" href="./index.css">
+        <title>A2 - Programming Exercises and Tabs</title>
+        <script src="./BradysJS.js"></script>
+        <style>
+            .tabcontent {
+                display: none;
+            }
+        </style>
+    </head>
+    <body>
+        <center><h1>A2 - Programming Exercises and Tabs</h1>
+            <h3>Click any of the tabs bellow to show content</h3>
+        </center>
+        <div class="tab">
+            <button class="tablinks" onclick="openQ(event, 'Q1')">Q1</button>
+            <button class="tablinks" onclick="openQ(event, 'Q2')">Q2</button>
+            <button class="tablinks" onclick="openQ(event, 'Q3')">Q3</button>
+            <button class="tablinks" onclick="openQ(event, 'Q4')">Q4</button>
+            <button class="tablinks" onclick="openQ(event, 'Q5')">Q5</button>
+            <button class="tablinks" onclick="openQ(event, 'Q6')">Q6</button>
+            <button class="tablinks" onclick="openQ(event, 'Q7')">Q7</button>
+            <button class="tablinks" onclick="openQ(event, 'Q8')">Q8</button>
+            <button class="tablinks" onclick="openQ(event, 'Q9')">Q9</button>
+            <button class="tablinks" onclick="openQ(event, 'Q10')">Q10</button>
+        </div>
+        <div id="container">
+        <div id="Q1" class="tabcontent">
+            <h4>Enter 2 numbers bellow</h4>
+            <h6>Click Submit to show all the numbers between your two numbers</h6>
+            <input type="text" placeholder="Min" id="Q1Min" class="textarea">
+            <input type="text" placeholder="Max" id="Q1Max" class="textarea">
+            <button type="submit" id="Q1Submit">Submit</button>
+            <div><p id="Q1result"></p></div>
+            
+        </div>
+        <div id="Q2" class="tabcontent">
+            
+                <h4>Enter a series of number, seperated by commas. Click "Calculate" to get information about your series.</h4>
+                <input type="text" id="ex2text" />
+                <button type="button" id="ex2button" >Calculate</button>
+                <div id="ex2output"></div>
+            
+        </div>
+        <div id="Q3" class="tabcontent">
+            <h4>Enter a series of numbers, seperated by a comma.</h4>
+            <input type="text" name="Q3" id="Q3num" placeholder="Numbers">
+            <h4>Enter a single number, and see how often it appears in the list above</h4>
+            <input type="text" name="Q3a" id="Q3key" placeholder="Key">
+            <button type="submit" id="Q3Submit">Submit</button>
+            <div><p id="Q3result"></p></div>
+        </div>
+        <div id="Q4" class="tabcontent">
+                <h4>Enter in any amount of stars</h4>
+                <input type="number" id="ex4input" />
+                <button type="button" id="ex4button" >Go</button>
+                <p id="ex4output"></p>
+        </div>
+        <div id="Q5" class="tabcontent">
+            <h4>Enter in how many stars you want, then enter the max amount per line</h4>
+            <input type="text" name="Q5" id="Q5num" placeholder="Number of Stars">
+            <input type="text" name="Q5a" id="Q5max" placeholder="Max number of Stars per row">
+            <button type="submit"  id="Q5submit">Submit</button>
+            <div id="Q5result"><p></p></div>
+
+        </div>
+        <div id="Q6" class="tabcontent">
+            
+                <h4>Input a sentence to be de-voweled.</h4>
+                <input type="text" id="ex6input">
+                <button type="button" id="ex6button" >Vowel Magic</button>
+                <p id="ex6output"></p>
+            
+        </div>
+        <div id="Q7" class="tabcontent">
+            <h4>Enter a number of items, Click "Submit" to  </h4>
+            <input type="text" name="Q7" id="Q7num" placeholder="Items to Ship">
+            <button type="submit"  id="Q7Submit">Submit</button>
+            <div id="Q7base"></div>
+            <div id="Q7tax"></div>
+            <div id="Q7total"></div>
+        </div>
+        <div id="Q8" class="tabcontent">
+            
+                <h4>How many Snickers do you want to buy?</h4>
+                <input type="number" id="ex8input">
+                <button type="button" id="ex8button" >Go</button>
+                <p id="ex8output"></p>
+            
+        </div>
+        <div id="Q9" class="tabcontent">
+            <h4>Enter a binary number,  Click "Submit" to convert your number to decimal.</h4>
+            <input type="text" name="Q9" id="Q9num" placeholder="Binary Number">
+            <button type="submit"  id="Q9Submit">Submit</button>
+            <div id="Q9result"><p></p></div>
+        </div>
+        <div id="Q10" class="tabcontent">
+            
+                <h4>Input 3 angles of a triangle</h4>
+                <input type="number" id="ex10input1"><br>
+                <input type="number" id="ex10input2"><br>
+                <input type="number" id="ex10input3"><br>
+                <button type="button" id="ex10button" >Do that triangle thing</button>
+                <p id="ex10output"></p>
+            
+        </div>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Aidan Stuff</title>
+    <script src="Aidan.js"></script>
+
+    <style>
+      #ex2,
+      #ex4,
+      #ex6, #ex8, #ex10 {
+        border: dashed thick blue;
+        background-color: aqua;
+        padding: 2%;
+        margin: 1%;
+      }
+    </style>
+  </head>
+  <body>
+    <!-- EXERCISE 2 BEGIN HERE -->
+    <div id="ex2">
+      <p>EX2: Input a series of numbers separated by commas:</p>
+      <input type="text" id="ex2text" />
+      <button type="button" id="ex2button">Calculate</button>
+      <div id="ex2output"></div>
+    </div>
+    <!-- EXERCISE 2 JS HERE-->
+    <script>
+      var btn = document
+        .getElementById("ex2button");
+        btn.addEventListener("click", ex2Function);
+
+      function ex2Function() {
+        window.document.getElementById("ex2output").innerHTML = "";
+        // read in values
+        let input = window.document.getElementById("ex2text").value.split(", ");
+        if (input.length === 1) {
+          // if only one input (assuming because no spaces between comma and next number), split again without spaces
+          input = window.document.getElementById("ex2text").value.split(",");
+        }
+        console.log(input);
+
+        // display number of inputs
+        //let output = window.document.getElementById("ex2output").innerHTML;
+        window.document.getElementById("ex2output").innerHTML += "<ul>";
+        window.document.getElementById("ex2output").innerHTML +=
+          "<li>Number of Values: " + input.length + "</li>";
+        console.log("<li>Number of Values: " + input.length + "</li>");
+        // display total
+        let total = 0;
+        for (let i = 0; i < input.length; i++) {
+          total += Number(input[i]);
+        }
+        window.document.getElementById("ex2output").innerHTML +=
+          "<li>Total: " + total + "</li>";
+        // display average
+        let average = total / input.length;
+        window.document.getElementById("ex2output").innerHTML +=
+          "<li>Average: " + average + "</li>";
+        // display smallest and largest
+        input.sort(function (a, b) {
+          return a - b;
+        });
+        window.document.getElementById("ex2output").innerHTML +=
+          "<li>Smallest: " + input[0] + "</li>";
+        window.document.getElementById("ex2output").innerHTML +=
+          "<li>Largest: " + input[input.length - 1] + "</li>";
+        window.document.getElementById("ex2output").innerHTML += "</ul>";
+      }
+    </script>
+
+    <!-- EXERCISE 4 BEGIN HERE-->
+    <div id="ex4">
+      <p>EX4: How many stars?</p>
+      <input type="number" id="ex4input" />
+      <button type="button" id="ex4button">Go</button>
+      <p id="ex4output"></p>
+    </div>
+    <!-- EXERCISE4 JS HERE -->
+    <script>
+      window.document
+        .getElementById("ex4button")
+        .addEventListener("click", ex4Function);
+
+      function ex4Function() {
+        window.document.getElementById("ex4output").innerHTML = "";
+        let numStars = window.document.getElementById("ex4input").value;
+        if (numStars >= 1) {
+          for (let i = 0; i < numStars; i++) {
+            window.document.getElementById("ex4output").innerHTML += "*";
+          }
+        } else {
+          alert("Number of stars must be at least 1");
+        }
+      }
+    </script>
+
+    <!-- EXERCISE6 BEGIN HERE-->
+    <div id="ex6">
+        <p>Input a sentence to be de-voweled.</p>
+        <input type="text" id="ex6input">
+        <button type="button" id="ex6button">Vowel Magic</button>
+        <p id="ex6output"></p>
+    </div>
+    <!-- EXERCISE6 JS HERE-->
+    <script>
+        window.document
+        .getElementById("ex6button")
+        .addEventListener("click", ex6Function);
+
+        function ex6Function() {
+        document.getElementById("ex6output").innerHTML = "";
+        let input = document.getElementById("ex6input").value;
+        let inputArray = input.split("");
+        let total = 0;
+        vowels = "aeiouyAEIOUY";
+        for(let i = 0; i < inputArray.length; i++) {
+            if(vowels.includes(inputArray[i])) {
+                inputArray[i] = "*";
+                total++;
+            }
+        }
+        document.getElementById("ex6output").innerHTML += "<ul><li>Vowels: " + total + "</li>";
+        document.getElementById("ex6output").innerHTML += "<li>" + inputArray.join("");
+        }
+    </script>
+
+    <!-- EXERCISE8 BEGIN HERE-->
+    <div id="ex8">
+        <p>How many Snickers do you want to buy?</p>
+        <input type="number" id="ex8input">
+        <button type="button" id="ex8button">Go</button>
+        <p id="ex8output"></p>
+    </div>
+    <!-- EXERCISE8 JS HERE-->
+    <script>
+        window.document
+        .getElementById("ex8button")
+        .addEventListener("click", ex8Function);
+
+        function ex8Function() {
+            document.getElementById("ex8output").innerHTML = "";
+            let input = document.getElementById("ex8input").value;
+            if(input > 0) {
+            let bars = input % 24;
+            let boxes = (input - bars) / 24;
+            document.getElementById("ex8output").innerHTML += "<ul><li>Number of Boxes: " + boxes + "</li>";
+            document.getElementById("ex8output").innerHTML += "<ul><li>Number of Singles: " + bars + "</li>";
+            document.getElementById("ex8output").innerHTML += "<ul><li>Cost of Boxes: " + (boxes * 32)  + "</li>";
+            document.getElementById("ex8output").innerHTML += "<ul><li>Cost of Singles: " + (bars * 1.75) + "</li>";
+            document.getElementById("ex8output").innerHTML += "<ul><li>Total Cost: " + ((boxes * 32) + (bars * 1.75)) + "</li></ul>";
+            }
+            else {
+                alert("Must purchase at least 1 snickers bar")
+            }
+        }
+    </script>
+
+    <!-- EXERCISE10 BEGIN HERE-->
+    <div id="ex10">
+        <p>Input 3 angles of a triangle</p>
+        <input type="number" id="ex10input1"><br>
+        <input type="number" id="ex10input2"><br>
+        <input type="number" id="ex10input3"><br>
+        <button type="button" id="ex10button">Do that triangle thing</button>
+        <p id="ex10output"></p>
+    </div>
+    <!-- EXERCISE10 JS HERE-->
+    <script>
+        window.document
+        .getElementById("ex10button")
+        .addEventListener("click", ex10Function);
+
+        function ex10Function() {
+            document.getElementById("ex10output").innerHTML = "";
+            let angle1 = Number(document.getElementById("ex10input1").value);
+            let angle2 = Number(document.getElementById("ex10input2").value);
+            let angle3 = Number(document.getElementById("ex10input3").value);
+            if (angle1 >= 180 || angle1 <= 0 || angle2 >= 180 || angle2 <= 0 || angle3 >= 180 || angle3 <= 0 || (angle1 + angle2 + angle3) != 180) {
+                alert("Error: not valid triangle angles");
+            }
+            else if (angle1 === 90 || angle2 === 90 || angle3 === 90 ){
+                document.getElementById("ex10output").innerHTML = "Right Triangle";
+            }
+            else if (angle1 > 90 || angle2 > 90 || angle3 > 90){
+                document.getElementById("ex10output").innerHTML = "Obtuse Triangle";
+            }
+            else {
+                document.getElementById("ex10output").innerHTML = "Acute Triangle";
+            }
+        }
+    </script>
+  </body>
+</html>
