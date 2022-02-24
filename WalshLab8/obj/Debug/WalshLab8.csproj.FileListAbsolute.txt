@@ -1,0 +1,10 @@
+C:\Users\brady\source\repos\WalshLab8\bin\Debug\WalshLab8.exe.config
+C:\Users\brady\source\repos\WalshLab8\bin\Debug\WalshLab8.exe
+C:\Users\brady\source\repos\WalshLab8\bin\Debug\WalshLab8.pdb
+C:\Users\brady\source\repos\WalshLab8\obj\Debug\WalshLab8.csprojAssemblyReference.cache
+C:\Users\brady\source\repos\WalshLab8\obj\Debug\WalshLab8.Form1.resources
+C:\Users\brady\source\repos\WalshLab8\obj\Debug\WalshLab8.Properties.Resources.resources
+C:\Users\brady\source\repos\WalshLab8\obj\Debug\WalshLab8.csproj.GenerateResource.cache
+C:\Users\brady\source\repos\WalshLab8\obj\Debug\WalshLab8.csproj.CoreCompileInputs.cache
+C:\Users\brady\source\repos\WalshLab8\obj\Debug\WalshLab8.exe
+C:\Users\brady\source\repos\WalshLab8\obj\Debug\WalshLab8.pdb
