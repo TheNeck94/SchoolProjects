@@ -1,0 +1,48 @@
+.PostDiv {
+    border: solid thick black;
+    padding: 25px;
+    margin: 3%;
+    width: 15%;
+}
+#output {
+    display: flex;
+    flex-wrap: wrap;
+}
+.row {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+.col {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+#title {
+    width: 100%;
+    justify-content: center;
+    padding: 20px;
+}
+#check {
+    width: 100%;
+    justify-content: center;
+    padding: 20px;
+}
+#check label {
+    padding: 20px;
+}
+#check input {
+    transform: scale(1.5);
+}
+#topPart {
+    background-color: rgb(49, 105, 226);
+}
+#botPart {
+    background-color: aquamarine;
+}
+#postCount {
+    font-size: xx-large;
+    background-color: rgb(60, 240, 141);
+    width: fit-content;
+    padding: 5px;
+}
