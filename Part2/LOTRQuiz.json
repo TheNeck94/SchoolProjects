@@ -1,0 +1,76 @@
+{
+    "title": "Brady's Tolkein Quiz",
+    "questions": [
+        {
+            "questionText": "Which watch tower did the witch king of angmar take down during the war of Arnor in the second age?",
+            "choices": ["Lothlorien", "Amon-Sul", "Dogul-Dur", "The Witch King never faught in the war of Arnor", "not enough information"],
+            "answer": 1
+        },
+        {
+            "questionText": "What is Gandalf's real name?",
+            "choices": ["Mithrandir", "Ungoliant", "Melkor", "Eru Iluvitar", "not enough information"],
+            "answer": 0
+        },
+        {
+            "questionText": "True or False: There is only one city named Minas Tirith",
+            "choices": ["True", "False"],
+            "answer": 1
+        },
+        {
+            "questionText": "True or False: Ar-Pharazan was the last numenorian king",
+            "choices": [
+                "true",
+                "false"
+            ],
+            "answer": 1
+        },
+        {
+            "questionText": "Isuldur's sword, which was reforged for king Elessar was named what?",
+            "choices": [
+                "Sting",
+                "Durin's Bane",
+                "Glamdring",
+                "Narsil"
+            ],
+            "answer": 3
+        },
+        {
+            "questionText": "What's the name of the land Eru Iluvitar sank in the middle of the second age",
+            "choices": [
+                "Beleriand",
+                "Arnor",
+                "Helcaraxe",
+                "Numenor",
+                "Eru Iluvitar never sunk anything in the second age"
+            ],
+            "answer": 3
+        },
+        {
+            "questionText": "What is the name of the region Rivendale is located?",
+            "choices": [
+                "Rohan",
+                "Lothlorien",
+                "Arnor",
+                "Gondor",
+                "The Misty Mountains",
+                "Imladris"
+            ],
+            "answer": 5
+        },
+        {
+            "questionText": "How Many rings of power did Sauron make?",
+            "choices": ["0", "9", "18", "10", "1"],
+            "answer": 4
+        },
+        {
+            "questionText": "Other than the Witch King, name one other Ring Wraith",
+            "choices": [
+                "Faramir",
+                "Ar-Pharazan",
+                "Ilendil",
+                "Kamul The Easterling"
+            ],
+            "answer": 3
+        }
+    ]
+}
