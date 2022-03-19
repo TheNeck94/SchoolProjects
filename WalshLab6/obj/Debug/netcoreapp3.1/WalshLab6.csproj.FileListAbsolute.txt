@@ -1,0 +1,13 @@
+C:\Users\brady\source\repos\WalshLab6\obj\Debug\netcoreapp3.1\WalshLab6.csprojAssemblyReference.cache
+C:\Users\brady\source\repos\WalshLab6\obj\Debug\netcoreapp3.1\WalshLab6.AssemblyInfoInputs.cache
+C:\Users\brady\source\repos\WalshLab6\obj\Debug\netcoreapp3.1\WalshLab6.AssemblyInfo.cs
+C:\Users\brady\source\repos\WalshLab6\obj\Debug\netcoreapp3.1\WalshLab6.csproj.CoreCompileInputs.cache
+C:\Users\brady\source\repos\WalshLab6\bin\Debug\netcoreapp3.1\WalshLab6.exe
+C:\Users\brady\source\repos\WalshLab6\bin\Debug\netcoreapp3.1\WalshLab6.deps.json
+C:\Users\brady\source\repos\WalshLab6\bin\Debug\netcoreapp3.1\WalshLab6.runtimeconfig.json
+C:\Users\brady\source\repos\WalshLab6\bin\Debug\netcoreapp3.1\WalshLab6.runtimeconfig.dev.json
+C:\Users\brady\source\repos\WalshLab6\bin\Debug\netcoreapp3.1\WalshLab6.dll
+C:\Users\brady\source\repos\WalshLab6\bin\Debug\netcoreapp3.1\WalshLab6.pdb
+C:\Users\brady\source\repos\WalshLab6\obj\Debug\netcoreapp3.1\WalshLab6.dll
+C:\Users\brady\source\repos\WalshLab6\obj\Debug\netcoreapp3.1\WalshLab6.pdb
+C:\Users\brady\source\repos\WalshLab6\obj\Debug\netcoreapp3.1\WalshLab6.genruntimeconfig.cache
