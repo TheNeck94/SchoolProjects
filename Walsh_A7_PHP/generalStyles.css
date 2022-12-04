@@ -1,0 +1,41 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Nov. 19, 2022, 9:56:31 a.m.
+    Author     : brady
+*/
+#header{
+    width:80%;
+    margin: auto;
+    text-align: center;
+    margin-top: 4%;
+    margin-bottom: 2%;
+}
+#container {
+    width: 70%;
+    margin:auto;
+}
+#buttons {
+    margin-left: 25%;
+}
+#carTable {
+    width: 70%;
+    margin: auto;
+    margin-top: 2%;
+}
+#addCarFormDiv {
+    margin: 3%;
+    padding: 3%;
+}
+#addCarDoneBtn {
+    margin: 3%;
+}
+tr:hover {
+    background-color: lightgreen;
+}
+
+.highlighted {
+    background-color: yellow;
+}
