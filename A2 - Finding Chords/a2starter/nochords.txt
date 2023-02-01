@@ -1,0 +1,3210 @@
+a  a#     ab  
+A    a#  B    
+ A A#    c 
+ A    a#    c#  
+ A  a# D   
+  a A#     D#     
+a   A#  Db    
+  a     A#    E   
+ a A#    eb 
+a   a# f 
+ A  A#   f#  
+ a   A#  G   
+  a  A#    g#    
+ A     a#  Gb   
+ A     Ab   A#    
+A  Ab    B  
+  A    Ab    Bb 
+A     Ab    c    
+A    ab  c#    
+a  ab d   
+ A    Ab  D# 
+ a  ab     db  
+a   Ab     E     
+a   ab    Eb  
+ a  Ab  f 
+ a    Ab F#  
+  a  Ab   G     
+  a    ab     Gb     
+a   b     A#   
+A   b ab 
+A  b    bb    
+A   B    C   
+ a   B   c#  
+A  B  d     
+A   b   d#    
+  a     B Db     
+  a     b  e    
+  A     b Eb 
+ a    b  F    
+ a     B F# 
+A b  G 
+a   B   g#    
+A     B     Gb 
+A   Bb    ab   
+A  bb B  
+  a    Bb C  
+  A   Bb     c#  
+  A     Bb     d 
+ a  Bb  d#  
+a  bb  Db     
+  a    Bb     e   
+  A bb  eb   
+  a   bb f   
+a  bb     F#     
+ a  bb     G 
+A  bb G#     
+A  Bb     gb 
+  A     c    A#  
+A   c    Ab  
+  A    c  B  
+ a    c  Bb  
+A  C     c#     
+  A   C D     
+ A   C     d#    
+  A C   db     
+ a    C  eb    
+A  c  f#    
+ A     C  G     
+  A     c g#   
+a  c    gb     
+  A     c#  a#  
+  A  c#    ab  
+a     c#    b  
+ A   c#     Bb   
+A    C#     c    
+a  C#    d 
+ a     c#    D# 
+  A  c#    eb    
+a   C#   F     
+  a     c#  g    
+A     c#  G#     
+a    d    A#     
+a   d  ab   
+ A     D   b 
+A     D Bb 
+  A   d   C  
+  A   d C# 
+  a     d     D#  
+  a   D    Db  
+ a   d    E     
+ a     d    Eb    
+  A  D     G     
+  A D   g#   
+A     d# A#   
+a   D#  Ab 
+ a     D#   b    
+  a   d# bb     
+A   D#    c     
+ a  D# C#  
+  A     d#     d   
+  A  d#     db     
+  a    D#  e     
+ A    D#    F   
+ A  D# F#   
+a    D#    G    
+ a  d#   G# 
+  A    d#  gb  
+a    Db     A# 
+ A  db    ab    
+a   Db B    
+A db  bb    
+ A     db   C 
+  a    db   d     
+a db     D#     
+  a  Db  eb    
+ A   db    F    
+ A  db g   
+a     Db     G#   
+  a   e a#  
+  a    e Ab   
+ a E     b     
+  A     E Bb     
+  a     E   d 
+ A  e   d#   
+a   E     Eb 
+ A     E  F     
+ A E   f#    
+A E  G   
+A    E   g#    
+A  E  Gb     
+  a Eb     A# 
+  A     eb     Ab     
+  a   Eb B    
+A     Eb     Bb   
+ A    Eb c     
+a eb     C#     
+ a   eb  d    
+  A     Eb    db 
+A    Eb e     
+  A   Eb    f     
+ a Eb    F#  
+a     eb    G  
+a    eb   g#    
+A    Eb gb     
+ A    f A#    
+a f    Ab   
+A   f B    
+A     f     Bb   
+  a F  C#   
+  a   F    d#  
+a  F  db   
+A     f  e   
+  A F   Eb   
+  a f   f#   
+A  F G     
+A  f g#   
+ a f  Gb 
+  a  f# a#    
+ a  f#     ab   
+  A    F#    B 
+  A    F#    Bb    
+  A     F#     C 
+A   F#     d#   
+A     F#  E     
+ a f#     Eb     
+A   F#     F    
+  a     f# g   
+ A   F#    G#     
+ a     G   a#  
+ A   g    Ab    
+a   G   B  
+  a   G   Bb     
+  a     g     C     
+ a    G    c#     
+ a  g  D  
+  A  g D#  
+A     G     db     
+  A   g E 
+ a   G  eb   
+  A     g  f   
+  A g     f# 
+a    g  g#     
+ A    g gb    
+  A    g#   A# 
+  a     G#   B   
+a    g#   bb  
+A     G#  c 
+a    g#   c# 
+ A   G#  d  
+  A   G#  D#   
+ A     G# db     
+a     G#   e 
+  a  g#   Eb   
+  A g#   F  
+  a    g#    F#    
+  A    g#   g 
+a  g#    gb  
+ a     gb  a#  
+A     Gb ab 
+  A    Gb     b 
+ A     gb    bb   
+  A   gb C   
+ A  Gb     d#  
+a    Gb     E   
+  A    Gb     eb  
+ A    gb   f     
+  a     gb    G   
+  A Gb G#   
+  a#    A  ab  
+  A#    a   b     
+ A# a    c   
+  A#  A  C#    
+a#    A  D    
+ a#    a d#   
+A#  A    db    
+ a#  A   e     
+a#     a     Eb   
+a# a     f    
+a# A  F#    
+a# a   g     
+ A# A     G#    
+ A#    a     gb    
+  A#   ab  A 
+A#   ab    B   
+  a#   ab C   
+  A#    Ab  C#     
+ a#     Ab  D  
+a#  ab     d#    
+ A#   Ab   Db     
+A# ab   E   
+ A#   Ab eb    
+  A#    Ab   f   
+  A#   Ab f#   
+A#   ab   g 
+ a#  ab   Gb   
+ A#   b     a  
+  A# B  ab     
+A#   B   c   
+ a#   B   C#  
+a#   b    D    
+  A#     B   d#     
+  a#     B    db   
+  A#  B   E     
+a# B   eb  
+ A# B    F 
+a#  B F#    
+  a#    B  g     
+a#    B  G#  
+ A# B     Gb 
+ a#  c A 
+a# C   ab   
+A#   c     b    
+A#     c    c#   
+ A# C     D  
+ a#    c   d#   
+  A#  C db     
+  A#    c   e     
+A#  C    Eb    
+ A#    c    F    
+  A#   C F#     
+ a#   C g   
+  A#  C    G#    
+ A#     C     Gb  
+  A# c#  a    
+ a#     c#  ab  
+  a#  c#  b    
+  A# c# C 
+  A#   C#   D     
+A#     C#     D#   
+  a#     c#  E   
+ a# C#  eb  
+ A#    C#     G   
+A# C#   G#    
+a#  D    a 
+ A#     d   Ab   
+A#     D  b   
+  A# d  C     
+A#    d c#  
+ a# d  d#    
+ a# D db     
+  a# d     E     
+ A#     D    eb   
+ A# d   F#    
+ a#  D  G#     
+  a#     d Gb 
+  a#     d# A     
+ a#  D#  Ab   
+ a#     D#   B   
+A# d#     c 
+  a# d#   c#  
+  A#    d#     d   
+ A# D# Db   
+  a# d# E 
+A#   D# F 
+A#   D#  G#     
+  a#     db a   
+  A#     db    ab 
+  a#     db     b     
+ A#   Db     c   
+a#   db   D   
+ a#     Db     d#   
+  A#     db  e    
+ A# Db    Eb 
+a#   db   G   
+  A#  Db    G#   
+  a# E   A     
+A#    e  Ab 
+ A#    E     B  
+  a#    E     C 
+  A#     e     C#  
+  a#     e  D  
+  a#    e d#  
+  a#     E  db     
+a# E eb 
+ A#    E   F     
+A#   E f#  
+a#  e  G   
+  a#  E     G#   
+  A#     e    gb     
+a# eb    A   
+ A# eb    Ab 
+  A#    Eb     b 
+  a#     eb     C 
+  a#  Eb     C#    
+ A#   Eb     d 
+ A#   eb   Db     
+  a# Eb    E   
+A#     eb   f     
+ a#    Eb     G#   
+ A#    F  A    
+a#    F  ab  
+a#   f   b 
+A#    f   c   
+ a#     f     D# 
+A# F e    
+  A# f    eb  
+  a#  f  F#     
+  A#     F  g    
+A#   f    g#    
+a#     f     gb   
+ a#    F#     a     
+a# F#     ab  
+a#   f#  B   
+A# F# c  
+a#     f#   D     
+a#    f#    E   
+a# f# F    
+A#     f#  g  
+  A# F# G#     
+ a#     g     a    
+  a# G  ab  
+ A#     g  B   
+A#    g c    
+ a#    G  c#    
+  A# g Db   
+ a#  g E   
+ a#  g f  
+ a#   g     F#     
+a#    g   g# 
+ A#  g   gb   
+  A#     G#   a 
+a#  G#     b     
+a#    G# c    
+A#    g#  C#   
+ a#  G#  D 
+A#   G#    d#  
+A# G#   db     
+a#  g#  e   
+  A#    G#     eb     
+A# G#  F 
+ a#   g# f#   
+  A# G#   g 
+a#   G#   gb  
+  a#  gb     A    
+ a#  gb    ab  
+A#  Gb     b   
+A#    Gb    C    
+A#   Gb   d    
+A#    Gb   E     
+  A# Gb  f     
+  a#   Gb G    
+ A#   gb   G#  
+Ab   a a# 
+ Ab   a    b  
+Ab   a    Bb   
+ ab     A  c 
+Ab A     C#  
+  ab     a  d    
+ab A     D#     
+Ab     A     Db    
+  ab    a e    
+Ab     a  Eb  
+ ab     a     F 
+ab A    F#     
+  ab   A G     
+ab  A Gb   
+Ab  a# a     
+  Ab  a#     B    
+  ab     a# c   
+  ab    A#    C#     
+  ab a#  D    
+Ab    a#   d# 
+  Ab   A#     Db     
+  ab    A#    E  
+  ab A# Eb   
+Ab     A#  f     
+Ab   a#   f#   
+ Ab     A# g    
+ ab a#   gb 
+ ab  B    a   
+ Ab   b   A#  
+  ab b   bb 
+ab  b c  
+ab b c#   
+ab B d   
+  ab B  db   
+Ab b     F  
+Ab   b  f# 
+ab  B  G 
+ ab     B     gb  
+  ab bb  a  
+ Ab     bb  B    
+  ab    bb     c     
+ab Bb    c# 
+ ab    bb     D    
+ab   bb  d# 
+ ab     Bb     db  
+ ab Bb  E    
+  ab Bb     Eb 
+ab  Bb   F     
+  ab    bb   F# 
+Ab Bb     g 
+ Ab Bb   Gb    
+  ab   C     A  
+Ab     C   a#    
+  ab  c     b    
+  Ab   C     bb    
+ ab     C     c# 
+Ab     c d     
+ ab  C   Db 
+Ab     c  E   
+  ab    C  F#   
+ Ab    C g    
+  ab     c   gb 
+  Ab    C#     a   
+Ab   c#     a#    
+  Ab  C#    b     
+  Ab   C#   Bb  
+  Ab  c#  c 
+  Ab    c#     d     
+ab  c# D#    
+ Ab     c#   Eb   
+Ab  C#  F# 
+  ab    C#     g 
+ ab   C#  gb    
+ab   D A 
+ ab    D a#   
+Ab D    B     
+ab D bb    
+ Ab     d   c  
+Ab D c#   
+ Ab  D    d# 
+  Ab   D  db     
+  Ab  D    e  
+ab    D  eb    
+  Ab    D F  
+  ab   D     F# 
+ab    d G 
+  ab     d   Gb    
+Ab     d#  A  
+  Ab    D#   a#  
+ab  d#   Bb     
+  Ab  D#    c#   
+Ab   d# D  
+ Ab   d#    Db  
+ab    d#   e   
+ Ab    d#   F 
+ab    d#   f# 
+ab d#   g    
+  ab  d#    gb 
+  ab     db    A    
+  ab   Db     A#     
+  ab    Db    b  
+  ab    db  bb   
+  ab Db     c  
+  Ab     db    d  
+ ab    Db D#   
+Ab   Db  Eb   
+  ab    Db   F#  
+ab    db  g    
+ Ab     db   gb     
+ Ab E   A  
+  Ab    e   a#  
+  Ab     E  Bb 
+Ab E  c    
+ab   E     d   
+  Ab    E    D# 
+ ab   e   eb 
+  Ab  E    F   
+  Ab     E f# 
+  ab  e     g    
+  Ab e    Gb 
+  Ab   Eb   A  
+  ab    eb a#     
+  ab  eb  Bb   
+ab Eb    c#    
+ Ab    eb   D  
+ Ab   Eb db   
+ab Eb e    
+ab   Eb    f    
+ab   Eb     f#    
+ab   eb    g     
+ab  eb     gb     
+ ab  f  A    
+  ab     F  A#  
+  Ab     F b     
+  ab    f    bb 
+ ab     f   D     
+ ab     F   D#    
+  Ab     f     E  
+ ab f    eb  
+ ab  F    F#   
+ Ab   f     G 
+  ab  f Gb   
+  ab    F# A     
+ab    F# a# 
+  Ab  F# b     
+ Ab   F#    Bb    
+ab   f#  c 
+  ab  f#   C#  
+ Ab  f#     D     
+  Ab  F#    d#     
+ab     f# Db     
+Ab f#    E 
+ab    F#     eb    
+  Ab   F#     f  
+ab    F#    g    
+  ab G A   
+ab G  a#   
+Ab g b    
+ Ab   g   bb  
+ Ab   g  c   
+ab G   C#    
+ ab g   d    
+  Ab  G D#   
+  ab    G  Db   
+Ab    G     e    
+ ab G    Eb 
+ab    g    f 
+ ab   G     f# 
+  Ab    g  Gb    
+ ab Gb     A    
+ Ab  gb   A#   
+ab Gb  B  
+ Ab  Gb    bb  
+  Ab Gb C  
+ ab Gb   C#  
+  Ab   gb d  
+ ab  Gb d# 
+ab   Gb    Db  
+ab     gb    E     
+ab   gb Eb   
+  ab gb   F   
+  Ab     gb G   
+ B a  A#   
+ b  a ab 
+B     a     bb  
+b a    C    
+  B    a c# 
+  B A     d  
+  B  A     d#     
+B A Db    
+ B     a  E   
+b  A    Eb  
+B A   f   
+  B    a     f#     
+ B     A    G 
+  B   a    G#    
+  b   A   gb    
+ B  a#    A    
+B  a#     ab     
+ b   a#     c 
+B    a#     C#   
+  b  A#    D     
+b   a#    d# 
+ B a#    db 
+  b   A#    E 
+ B  A#     eb    
+B  A#   f    
+b   A# f# 
+ B   A#  g    
+ b A#   g#   
+b  A#    gb   
+ B  Ab     A  
+b Ab    A#  
+  B  ab     Bb    
+B  ab   C  
+  b    Ab     C# 
+  b    ab D 
+ B  Ab   db 
+b  Ab   F 
+ b   Ab    f#     
+B    ab  g    
+ B  Ab  gb     
+B bb   A   
+ B    bb     Ab 
+ b     Bb   C  
+B  Bb     C#    
+ B   bb     d  
+ b     bb     D#     
+ b    bb  Db    
+  B    bb     e    
+ B  bb  Eb    
+b bb    f    
+ b  bb   f# 
+  B  bb g    
+b  bb    g#     
+b  bb   Gb    
+  b  c A   
+  B     c    a#  
+b     C     ab 
+B    C   bb   
+ B     C C#  
+b     C    D     
+  B     c     d# 
+  B   C    Db   
+  b C     E   
+b  C    eb    
+b    C   F     
+ B     C f#    
+ b     c    G    
+B  c  G#  
+ B    C   Gb    
+b    C#   a   
+b    c#   A#     
+  b  C#    Ab   
+B   C#   bb   
+ b   C#    C 
+  B C# D  
+B    c#   D#    
+b    c#  e 
+ B c#  eb    
+  b   c#    F   
+  B C# f#     
+ B    C#     g  
+  b C#   G#    
+B  c#   Gb   
+ b   d a 
+b     d  a# 
+ b D   ab     
+ b  D  Bb    
+  B   d     C  
+ B  D  c# 
+B  D   d#    
+  b    d  db  
+B  D    e   
+B    D   Eb   
+ b d    f     
+ b D G# 
+  b  d#     A    
+b D#    a#   
+ B     d#     bb     
+  b   D# C   
+  B     d#     c#     
+ b  D# d   
+ b  D#  Db    
+  B   d#    E   
+  B D#     F 
+  B   D#   G  
+b     db   A 
+ b     Db  A#     
+b  db  ab   
+ B Db Bb   
+B db     c 
+ B     db   D   
+ B     Db  d# 
+  B   Db  e    
+b  Db   Eb  
+B    db f    
+B  Db F#    
+  b db    g 
+  B   Db  g#  
+ B   db     Gb   
+b   E    a   
+B E a#   
+B    e  bb   
+B     e     C 
+ b  E     c#   
+b   E  d   
+  B   E    d#     
+  B   e Db 
+  B     E   Eb     
+ b    e   f   
+  b     e  f# 
+  b E   gb   
+ B  Eb    A     
+B   eb  A# 
+ b   Eb     Bb     
+  b   Eb     c   
+ b     Eb  C#   
+  b  Eb    D   
+B   Eb  db    
+b  eb   E    
+ b    eb   f   
+  B    Eb  G 
+ b     f    A  
+ b    F a#    
+ b    F  Ab 
+b   F    bb   
+b  F C 
+ b     F  c#   
+  B  F   d    
+ B    F d#     
+b f  Db    
+  B    F e   
+  B    F   eb   
+  B     f  f# 
+  b     F G     
+  b    f   G#     
+ B     f    gb 
+ b    F#    a   
+ b   F#     a#    
+  b f#  ab  
+  B     F#  Bb 
+  b     f# C    
+B    f#  c#   
+B     F#     Db     
+  B    f#  e   
+ b     F#  F     
+  b    F#   g 
+  b  f#     G#  
+b    g  a    
+  b     G a#  
+b    G     Ab   
+B  g bb  
+  B  g     c    
+B   G  C# 
+ B   g    d#   
+B  g   Db   
+ B G Eb   
+B     G     F   
+  b  G    f# 
+ B     G  g#     
+B  g gb    
+  B g# a    
+b   g#     A#     
+  B  g#     Bb  
+ B    g#     c  
+ B     G#  C#     
+  B   G#  d  
+B    g#    db 
+  B  g#   f 
+b   g# f# 
+ B  G#    g 
+ b   g# gb  
+ b  gb a   
+ B   Gb     a#   
+b  gb     ab 
+ b    Gb   Bb 
+  b gb     c   
+ b     Gb     c#     
+ b   Gb db 
+  b    Gb E   
+  b gb     f  
+  B    Gb G 
+ B   gb  g# 
+bb  a   Ab     
+Bb     A   b   
+Bb A  c  
+ bb  a    C#  
+  Bb     a d   
+ Bb  a   d#    
+  bb a    Db   
+Bb  a   E     
+  Bb   A     eb   
+  Bb     A     F    
+ Bb  a     F# 
+  bb   a     G 
+ bb a g#   
+ Bb a  Gb  
+Bb    ab  A    
+  bb    Ab    B    
+ Bb     ab  C  
+ bb   ab   c#     
+Bb  Ab d 
+Bb     Ab     d#    
+  bb  ab  db  
+  Bb  ab   E    
+  bb   Ab     eb  
+ bb ab    f   
+ bb    ab    F# 
+  bb   ab G   
+  bb     Ab   Gb  
+  Bb b    A    
+ bb b     Ab    
+ bb   B C   
+Bb   B     c#     
+bb     B  D     
+  bb b     D# 
+ Bb    b     db    
+  bb B  e   
+  Bb  B  Eb  
+ Bb   B   F   
+  Bb  B   F#    
+ bb b g  
+ bb     b     g#  
+bb b     Gb    
+  Bb    C  a   
+Bb     c  ab 
+bb C b  
+  Bb     C  c#    
+ bb    c D   
+ bb   C   D#   
+  bb    C   db  
+Bb  C   E  
+ Bb c  Eb  
+bb     C f    
+ Bb   c   F#  
+  bb     C   g    
+ bb c   g#    
+ Bb    C  gb     
+  Bb  C# A   
+bb  C#     Ab  
+ bb     C#    B     
+  Bb  C# C   
+bb    C#     d 
+  Bb    c#     d#  
+  bb   C#     E 
+ Bb    C# Eb 
+  Bb  C#  g  
+  bb    c#   g#  
+Bb  D     a   
+ bb  D    ab 
+ Bb  D b   
+  bb D C  
+ bb D C#   
+ Bb    D  D#     
+ Bb d   Db 
+Bb   d   E    
+  Bb D     eb 
+ bb   d     F# 
+ Bb     d    G#    
+ Bb D     gb    
+bb    d#   A 
+Bb D#   ab     
+bb D#   b    
+  Bb   D#     c  
+bb   D#   c#   
+ bb    d# d 
+  bb  d#   Db    
+  Bb   D#     E  
+Bb  D#   f  
+ bb    d#    G#  
+  bb     db  a     
+ Bb Db     ab   
+ Bb     Db b   
+ bb db   c  
+ Bb Db d     
+Bb     Db  D#   
+Bb  db E  
+Bb Db eb  
+ Bb    Db    g   
+  bb   Db  g#     
+ bb  e    a    
+  Bb     e Ab 
+  bb  E  b     
+Bb  E     c  
+  bb     E   C#     
+bb     e     D 
+bb    E    d#    
+ Bb  E     Db 
+  Bb     e Eb 
+  bb     E     f   
+bb  E    f# 
+Bb     E G 
+bb  E   g#   
+ bb E  gb  
+  Bb   eb    a    
+Bb eb ab    
+ bb    eb     b   
+bb     Eb    C     
+ bb   eb     c#   
+Bb   Eb    d 
+ bb  eb     db   
+bb   Eb   E 
+  bb    eb  F     
+Bb Eb    G#  
+  Bb   F     A 
+  Bb    F  Ab  
+  bb     F  b    
+ bb     F c 
+ bb     f  d#    
+ bb   f    e   
+  Bb  f   eb 
+  bb  f f#  
+bb   f    g   
+bb     f   g#  
+ bb    F    gb   
+ bb     F#    a 
+Bb    F#     ab     
+ bb F# b 
+ Bb     f#  c  
+  bb  F#     D    
+ bb   f#   E   
+  bb     F#    F  
+ Bb  F# g     
+ bb     F#     g#    
+ Bb g     A   
+  bb   G    Ab 
+  bb   g     B    
+  bb   G     C   
+  bb    G  c#     
+ Bb    G    db  
+Bb g   e 
+ Bb    G   F     
+  bb   g    f#     
+Bb G   G#    
+ Bb  G  gb    
+ Bb     G#   A     
+bb  g#     b     
+  bb  g#   C    
+ Bb   G#    C#     
+ bb   G#     D 
+ Bb     g# D#   
+ Bb    G#     Db  
+ bb   g#   E  
+  Bb g#     Eb  
+ Bb g#     f 
+  bb  g#    F#    
+bb  G# G 
+  bb  g#  gb  
+ Bb  Gb     a  
+  Bb     gb     ab  
+ Bb  gb  b   
+ Bb  gb    C 
+ bb   Gb   D   
+bb  gb    E  
+  Bb     gb F   
+  Bb  gb    g   
+bb  gb  g# 
+C  a   a#    
+c  A    Ab   
+ C     a    B  
+c     A  Bb 
+C  A C#  
+  C     A    D   
+c  a   D#  
+c   A Db 
+c    A eb     
+ C    A  f#  
+c   a    G   
+ C    a    g# 
+  c  a    Gb     
+c     a#    a     
+  C     A#     ab   
+  C A# b    
+ C   a#   c#  
+ c     A#    d   
+c   a#    d#   
+C a#     Db   
+C   A#    e   
+ C    A#     eb     
+  C   a#   f     
+  C  a# f# 
+c a#  G  
+C   A#  g# 
+  c    a# Gb  
+ c     ab     a  
+c   ab  A#     
+C  Ab B 
+  c  ab    bb  
+c  Ab   C#  
+C    ab     d  
+c    Ab     db 
+  C  ab  e  
+  C  Ab    F# 
+  C    ab   G 
+ c   Ab     gb   
+  C B     A 
+ C   b  A#     
+  C    b    Ab    
+  c   b    Bb   
+C  B  C#  
+ C  b   d 
+ c   b D#     
+C   b    Db 
+c     B    E    
+C b     Eb    
+ C    B F 
+C     b     f#   
+C     b    g  
+  c     B   g#     
+ c    B   Gb   
+ C     Bb     A  
+ c     Bb     Ab     
+  c     Bb  B 
+  c Bb    C#     
+  C  bb    d  
+  C    Bb    D#     
+c  Bb Db     
+  c   Bb   E   
+ c bb   eb  
+  C     bb     F   
+  C bb    F#     
+  C Bb  g  
+  C    bb     G#  
+c   Bb     gb    
+ c C# A   
+ c  C#  A#     
+c  c#     ab     
+c    c#    B 
+ c    C# bb   
+ c c#  D  
+c     c#  d#     
+C    c#   E   
+  c     C#     Eb  
+c  C#   f   
+ c    c#   f# 
+ C C#     g 
+ c    C# g#  
+c    C#    Gb     
+  c  D     a    
+c    d     A#   
+  C D   ab     
+ C D B  
+  c  d     bb   
+ C D  C#     
+ C  D    d#   
+C D    Db   
+  c   D  E 
+c     d   eb     
+  c d    f  
+ c  d  f#   
+ C  D  g 
+C  D G# 
+ c  d    Gb 
+ c     D#   A   
+ C   D#  a# 
+C d#  b     
+c  D#  Bb   
+  C    d#    c# 
+  C   d#     d    
+  C   D#   Db 
+C  d#  e  
+  c d#   f     
+ c d#    f#     
+c D# Gb     
+  c db   a  
+  c  db   a#   
+c   Db  ab    
+  c   Db B  
+C Db     Bb  
+C   Db    D 
+ c    Db     d#   
+  C db  e     
+ C   Db  Eb 
+  c db   f 
+ c  Db  F#     
+c Db    g    
+C Db g#  
+C   Db     gb  
+  c    E    a#    
+c   e     ab     
+ C     E     B   
+c   E bb    
+C     e     c#     
+  c     e     d   
+ c     E   D#    
+c e     Db  
+c     E eb 
+  c   E  F    
+  C  e    f#     
+  C  E G#    
+c e     Gb   
+ c eb     a   
+  c   Eb    a#    
+C     eb  B 
+ c    Eb   Bb   
+ C     Eb    c# 
+  c    Eb D   
+  C   eb Db   
+ C   Eb     E   
+c    Eb     f  
+ c     eb     F# 
+C   Eb   Gb     
+C  F   A#     
+C   f     B 
+  c     F   Bb     
+c f  c#   
+  c  f     D  
+ c     f    d#     
+c f    db   
+C f  e     
+ C F     eb     
+  C  f     F#     
+c     f  g 
+  c     f   Gb  
+C F#     A 
+ c     f#    a#   
+ C   F# Ab   
+  C F#   B   
+c F#    Bb   
+  C    f#     C#   
+c     f#    d     
+c  F#    d#    
+ c    F#  db    
+C     f# e     
+ c     f# Eb    
+c    F#    F 
+  c   F# g     
+  c  f#   G#     
+  c  g    a   
+c     g     A#     
+  C  G     ab    
+ c g   B   
+ C    G Bb    
+  c   G    c# 
+c    G d    
+ C g   db  
+  C    G F   
+ c g    F#    
+  C    G   g#  
+  C  g     gb   
+  c   g#     a     
+  C     g# a#    
+ C     G# B    
+  c    G#  bb   
+ C   G#    C#     
+C     G#   d  
+  C    G#  Db  
+  c   g#     e 
+ c   g#  F#    
+C     G#    G     
+c   G#     gb   
+  C   Gb  A  
+  C gb  A#     
+C  Gb   ab    
+  c   gb     b  
+c  gb  Bb   
+  c gb   C#     
+ c     Gb    D 
+ c gb  D#   
+  c Gb    db     
+C    Gb    E    
+c  Gb Eb  
+C    Gb    f     
+ C    Gb     G    
+ C   gb g#     
+C#    A A#  
+  c#    A    Ab  
+c#     A    b  
+ C#   A   Bb 
+ c#   a C   
+ c#   a     D    
+  c#   A D# 
+c#  A  eb    
+c# a     f     
+ c#  A g     
+ C# a g#   
+C#  a#    A  
+c#    A#     ab  
+ C#    A# B     
+  c#  A#    C    
+C#     a#     D 
+ c#    a#   d#   
+ c#   A# e    
+  C#  a#     eb   
+c#   A#  G 
+c#  A#     G#    
+ c#    ab     a     
+  c# ab     A#     
+C#   Ab    B   
+ C#    ab    Bb    
+  C#     ab   C   
+ C#   ab    d 
+ c#     Ab  D#   
+  c#     ab  Eb    
+  c# ab   F#  
+C#   ab     G  
+  c#  ab Gb     
+c#   B A 
+ C#   B    A#    
+  C#    b   Ab   
+  C#  B  Bb   
+ c#   b  c     
+ C#   B   d     
+C#    B     D# 
+ c#  B  E 
+  c#     B   eb    
+ c#     B  F 
+ c# b   F#   
+c#  b     g    
+C#    B     g#  
+c#     B     gb  
+ C#    Bb  A 
+  c#   Bb  ab    
+ c# Bb     B     
+ c# Bb     C     
+ c#    bb     d    
+ C#   Bb d#  
+C#     Bb    E  
+  C#  bb    Eb  
+C#     bb     g    
+  c#   Bb     g#   
+ C#    c  A   
+  C# C   A#    
+c#    C   ab     
+  c#   c     b 
+  c# c    Bb    
+  c# C   d    
+ C#     c     d#   
+C#   C  e     
+c#  c     Eb    
+C#  C     f  
+C# C F#  
+c#  C     G  
+C#    c g#    
+C#    c   Gb   
+C#  d  A     
+ c#    D a#    
+C#   d     Ab 
+C#     D   B   
+C#     d   Bb    
+ c#    d    C 
+ C#    D  d#   
+c# D e 
+  C# d   eb     
+ C#   d F   
+C#  D  F#   
+ C#   D     g     
+  c# D     G#     
+c#    D    gb    
+  C#     d# a     
+c#     D#   a# 
+  C#  D#   ab  
+ C#    d#     b 
+  c#   d# Bb   
+ C#     D#  C     
+  c#     D#    D    
+c# d#  e   
+  C#  d# f    
+C#    d#  f#  
+C#   D#     g  
+  c#   D#    G#    
+ c#    D#   gb  
+ C#   e A#  
+  C#     e     b    
+C#  E    bb   
+C#  E  C   
+  c#   E  d    
+  c#     E     D#   
+ C#   E     eb  
+c#    e  f  
+c# E    f# 
+  c#     E   G  
+ c#     E    gb     
+C#     Eb    A  
+c#     eb   a#     
+ C#    Eb    ab   
+C#   Eb  b     
+ C#    Eb   bb  
+ C#   eb    c     
+ C#    Eb  d  
+ c#   eb  e     
+ c#     eb f  
+ C#     Eb  F#   
+  c#   Eb    g   
+ c#     eb     G#     
+C#  eb    gb  
+ C# F  A     
+ c#  f  B    
+C#   F   c 
+ c# F     d  
+ C#  F     d#    
+  C#     f    E 
+ C# f   Eb  
+C# F     F# 
+C#     f  g    
+c#  F   gb     
+C#  f#  Ab 
+C#     F#  B   
+  c#     F#  C     
+ C# F#    d    
+ C#    F#     D#   
+  C#   f#    E    
+C#    F#   Eb  
+ c#    f#    f     
+C#     F#    g    
+  c#  f#     g#    
+ C#     g A     
+ C# g  a#     
+c# G Ab   
+ c#     g b     
+  C# G    Bb  
+  c#   G  C     
+ C#    G D    
+ C#     g d#   
+ c# g    E    
+ c#   g     Eb 
+ C#     G    f   
+  C#   G  F#    
+C#     G G#  
+C#     g   gb   
+ c#     G#   a   
+c#     g#   A#   
+C#  G#    B 
+  C# g# bb     
+ c#     g#   C    
+c# g#  d  
+ c# g# d# 
+  C#     G#   eb 
+ C#  g#     F#   
+c# G#   g  
+C#  G#   Gb  
+ C#     Gb    Ab    
+c# Gb   b  
+  C#  gb    c    
+c#  Gb D    
+C#    gb d#     
+  c#  Gb     e   
+c#  Gb  Eb  
+c#   gb     f 
+C#     Gb     G     
+  C#   Gb    G#  
+D   a     A#   
+D   a   ab   
+d   a   b   
+  D     A bb     
+  D    a  C  
+ d A   C#    
+d    A  D#   
+ d   A Db    
+ D   a    e 
+  d    A   eb     
+d  a     G    
+D   A    g#  
+  d    A#   A   
+D   a#     ab 
+  d     A#     b  
+  D a#   C 
+ d a#    C#  
+D    A# D#    
+  d     a#  Db    
+ d  A# e   
+d     A#    eb    
+ D a#     F#    
+D    a# g#  
+  d     A#     Gb    
+  d ab    a  
+ D  Ab  A#     
+ d  ab  B 
+ D     ab     bb  
+ D     ab C 
+D Ab   c#   
+ D   ab  d#   
+d  Ab  db    
+  d     ab  e    
+  d  Ab     eb    
+  D     ab   F  
+d ab  F#    
+D Ab   g     
+D  Ab  gb     
+ D   b     a   
+  d b     A#   
+  d     b    Ab 
+d  B   Bb   
+ D     B    c   
+  D    b c#  
+  d     B   D#   
+d B  db  
+ D  B   e     
+  d     B  Eb  
+D  B  f 
+  d b  g#    
+d     bb a     
+ d  bb Ab   
+  d     bb B    
+ D  bb     C  
+D bb C#  
+ D   Bb    D#    
+ D bb    Db     
+D   Bb    e    
+D   bb     Eb 
+d bb    f#   
+d bb    g# 
+ d     bb  Gb   
+d   C  a     
+D  c     A#     
+  D  c Ab   
+d  c  b 
+D c     Bb 
+ D    c C#  
+ D c   d#   
+  D   C    db   
+  d   C E 
+ D   C eb   
+  d  C   f     
+  D    c  f#     
+ d  c  G  
+ d  c     g#    
+D     C gb 
+d    c#  A     
+ D    c#   A#   
+ d   C#  ab   
+  d     C# b    
+D    c#     Bb    
+d  C#    c 
+ d  C# d#   
+  d    c#  E     
+  d   c#   Eb 
+ d     C#    F  
+ d c# f#   
+ D   C#  G 
+  d    C#    G#  
+ D     c#   Gb     
+d     d#  A     
+ d   D#   a#   
+  D     d#     ab 
+ D   D#     B     
+ D d#   bb    
+  d    d# C 
+ d  d# C#  
+  D D#   db   
+  D    D# e    
+d     d#    f     
+d    d#    f#  
+  D   D#     G    
+D  D#   G#    
+ D   D#    Gb    
+ d   db   a    
+ d   Db a#     
+d   Db   ab    
+ D     db   B    
+D   Db   Bb   
+D Db    c  
+  D  Db   D# 
+d     Db   e  
+ d     Db eb 
+D  db  F     
+  D db     F#  
+d   db  G   
+ d  Db  g#    
+  d     Db   gb    
+ D   E     a 
+  D E  A#    
+ D    E Ab    
+d  E  B    
+D E   Bb 
+d   E  C    
+D  e  C# 
+ d     E     d#     
+  d     E  db     
+ d     e     Eb   
+d    E     f  
+d E    F#   
+d  e     g  
+d     E G#   
+ d     E  Gb   
+  d   eb     A     
+ D   eb    a# 
+D eb     Ab  
+  d  eb  B     
+d    eb    Bb    
+  D     eb   C    
+d     eb   c#  
+d eb  db 
+ D     eb    E    
+  D eb  f    
+  d     eb   F#  
+d    eb    g     
+ d   eb     G#     
+  D     eb    gb    
+ D  F ab  
+ D    F  B     
+d F  c  
+  D   F    c#     
+  D   F     d#  
+ D f     db   
+D   F    e  
+  d    F  eb     
+D     f  F#     
+ d   F     g     
+  d   f  g#   
+D   f Gb     
+  D     F#    A# 
+  D  F#     Ab  
+  d  F#    Bb    
+d  f#     C   
+D   f#     c#   
+d   F#  D#    
+D   F# Db    
+  D     f#   e 
+d  F#   Eb   
+d F#     f    
+ D  f# G     
+ d   F#     g#  
+  d   G A    
+  D g  Ab 
+ D  G     C     
+  d     G     C#    
+D G   D#   
+ d   G     Db   
+ D     g E     
+ D    G eb   
+ D  G    f 
+D   G   f# 
+  D   g G#    
+D    G Gb     
+ D G#     A 
+  d   G# a# 
+  d    g#     B 
+ d   g#  Bb    
+  d     G#     c   
+d     G#    c#  
+  d G# D#  
+D g# db  
+d     g#    e    
+ D    g#     Eb    
+D     g#  f     
+d     g#    F#   
+ d G#  G 
+D    g#   Gb  
+d     Gb   a#    
+D    Gb  Ab   
+d    Gb     Bb  
+d     gb C   
+ d     gb    C#  
+  d    Gb   D#   
+ d  Gb  db   
+  D  Gb    E    
+D  gb    eb   
+  D Gb     f     
+ d Gb G 
+d Gb     g#    
+ D#   a   a#   
+d#  a Ab 
+d# a B   
+d#     a  bb    
+ D#     A   C    
+d#   a C#  
+  d#     a     D     
+  D# a   Db     
+  d#    a     E     
+d#  A     F 
+  D# a   f#   
+d# a g   
+  D#     A     G# 
+  D#     a  Gb  
+D#   a# a    
+d#   a# Ab   
+  D#   A#    b   
+ D#     A#    C 
+d#   a#     c#    
+  D#    a#  d     
+  d# a#   db    
+ D#     A#  E 
+ D#     A#   f 
+ d#  a#    G#  
+  d#    ab  A   
+  d#  ab A# 
+ D#    ab Bb    
+ d#     Ab     C#  
+  d#    ab D    
+d#    Ab   Db 
+  D#   Ab   e    
+  D#   Ab F     
+  D#   Ab     f#   
+D#  Ab    G    
+ d#  ab     Gb 
+d#    b  A  
+  d#  B a#   
+  D#   b bb   
+D# B  c     
+ D#  B  c# 
+  d#  b   D   
+ d#     b  db     
+  D# b e 
+  d# B F  
+D#   B    g  
+D#   Bb A  
+  d#    Bb  ab     
+  D# Bb   b  
+  d#   bb  C 
+ D#     bb   C#  
+ d# bb     D    
+ D#   Bb  db 
+d#   Bb   E    
+d#  bb     f     
+ d#   bb   g#   
+  d# C   A    
+d#    c  A#  
+ D#  C   B  
+D# c    bb     
+  d#    c  C# 
+  d#   C    d   
+  d# c Db    
+D#  C    e     
+  d#    c     F    
+ d#   c  F# 
+ D#    c  Gb    
+  d#   c#   a   
+ d#   C#  a# 
+  d#    C#    Ab    
+D#     c#     b 
+D# c# Bb 
+  d# C#     c  
+  d#  c#   D    
+D#    c# E  
+D#   C#   f    
+  D# c#  f#   
+ D# C#     G  
+D#  c# g#   
+  d#     c# gb   
+ D#  d    A   
+ d#   d    a# 
+ d#     D  ab 
+  d#  d B  
+ d#    D     Bb 
+ d#    D   C    
+ D#  D     c#     
+  D# D   Db     
+D# D E  
+D#    d    f    
+ d#  d f#  
+D#  d   g    
+  D#   D   g#  
+  d#     d    Gb    
+D#  Db   a     
+D# Db    a#     
+  d#     db   Ab    
+D# db    B    
+ d#    db    bb     
+ D#  db  C 
+  D#   Db  d    
+d#     db     E     
+  D#    db    F 
+  d# db    f#   
+ d# db   g  
+  D# Db    G#     
+d#  db     gb   
+ D#     E  A 
+  D# e   A#   
+  D# e  ab  
+D#   E  B   
+ d#     E   bb    
+D# E  C    
+D# E    c#  
+ d#  E  d 
+  D#  e    Db 
+  d#     e    f  
+d#  E   f#    
+ d#    E g 
+d#     e     G#  
+ D#    E Gb    
+  d#    F a  
+d#    f  A#   
+ D#   f   ab     
+ D# f   B     
+  D#   f   Bb    
+ D#    f     c  
+d#    f     C#    
+  D#     f   d    
+  d#    F  Db     
+ D# F  E 
+d#    F    f#  
+ d#    f  G    
+ d# F g#   
+D#     f  gb  
+ D#    f#  A   
+d#  f#     Ab    
+d#     F#  c   
+  d# f#    C#  
+  d# F#   D 
+ D#     f# db   
+  d#    f# E     
+ D# f# f   
+ d# F#     G     
+ d# f# g#  
+D#     g   a    
+ d#    g   ab     
+  D#     g b 
+d#    g     C#   
+ D#   G     d  
+  d#   G Db     
+d#  G     E    
+  d#  G  f    
+  D# G    f# 
+ d#   G g#    
+ D#    g    gb     
+D#    G#   A 
+  D#   G#    A#     
+d#    G#     Bb 
+d# g#    c#     
+d# g#   D     
+D#  G#  Db 
+  D#     G#   e  
+d#   G#  F 
+d#    g#    f#  
+ D#    g# g    
+  d#   G#   Gb  
+D#     gb  A 
+D#    gb  ab    
+d#     gb  c    
+ D#  gb  C#     
+ d#     gb d 
+D#   gb db     
+d#    gb    e 
+  D# gb    F    
+ d#     Gb    g   
+ D#    Gb  g#     
+Db  A     A#  
+  db  A   ab     
+db     a    b   
+db   a Bb   
+ db    a  C   
+  Db   a     d  
+  db a    d#     
+  Db  a  Eb 
+Db    a    F 
+Db    a   G     
+ Db  A  G#     
+db  A#   A   
+ db    A#   ab 
+ db  a# B  
+db    a#     C     
+ Db    A#     D     
+  Db A#   d#   
+ db a# E     
+  db a#   eb 
+ db     a#  g   
+ db     A#    G#   
+ db ab    a   
+  Db     Ab  A#    
+db  ab   b   
+db Ab    bb  
+Db  Ab     C  
+  Db  ab   d  
+  Db Ab     D#  
+ Db  Ab   eb    
+Db ab F#  
+  db     Ab   G   
+  Db   ab     gb     
+ Db   B  A    
+Db  B   a#   
+  db  b ab    
+db    b   Bb 
+db  b   C   
+  db     b    D  
+Db    b   D#  
+Db    b e     
+  db    B  Eb  
+Db     b    f    
+  Db  b f#     
+ Db    b   g    
+Db     b  G# 
+  Db b  gb    
+ db  Bb  A     
+ Db     Bb Ab  
+db  Bb   b     
+  Db   Bb    c     
+  Db  Bb    d  
+db bb   d#     
+Db Bb  E     
+  Db bb  eb     
+  db Bb    g     
+  db   bb     g#   
+ db     C   A   
+db  C   a#  
+Db c ab     
+ Db     c b     
+ db  C     bb  
+Db    c    D   
+db     c     D# 
+db     c  E     
+db  C  eb     
+  Db  c     f   
+  db    c    F# 
+db   c  G 
+db     c   g#   
+Db   C   Gb   
+Db  d  A    
+ Db     d   a#    
+db    D     Ab 
+ db    D b    
+Db    d     bb    
+ Db     d  C    
+ db    d   d#   
+ db   D    E    
+db     d Eb     
+  db     d F    
+  Db  D   F# 
+Db     D  G  
+  Db    d   G#     
+  Db     d    gb   
+  db     d#     A  
+Db  D#     A#    
+  Db  d#    Ab    
+ db   d# B   
+db d#  bb   
+  db   d# C    
+ db    d#  D  
+ Db d#    e 
+  db  D#  f 
+ db     D#  F#   
+  db    D#     G  
+Db   d#     g# 
+Db   d# gb 
+Db    e    a#   
+ Db E     B  
+ Db     E bb 
+  Db E C    
+ db e  d    
+ Db E  d#   
+db    E     Eb   
+  db    e  f   
+Db     e     F#   
+ db     e  G 
+ db     e   Gb   
+ Db eb A 
+ Db     Eb  A# 
+Db   Eb  Ab 
+db eb  b    
+ db  Eb    Bb    
+Db   eb   c     
+  Db eb    D  
+ Db     eb    e  
+db     Eb F    
+ db    Eb  f#   
+db    eb    G    
+ db Eb    g# 
+  Db   eb     gb     
+  db     F   A 
+  db   F   b  
+ db  f C    
+ Db  f  d    
+ Db  F     D# 
+db   f  E 
+  Db     f   Eb   
+Db   F    F# 
+ db F    G   
+ Db    F  Gb     
+  db  F#   Ab  
+  Db  F#    B    
+  db  F#     c    
+ db    F#   d  
+ Db F#   d# 
+ db  F# E   
+ Db F#   Eb 
+db     F#    F   
+ db F#  g   
+ db     F# G#    
+  db    G   a     
+db    g    a#  
+ db  G   ab   
+  Db g b 
+  db  g Bb     
+ db    G c    
+Db   g  D  
+db  g    D# 
+  db   g     e    
+ Db G   Eb   
+ db  g F 
+  db   g    F# 
+  Db G    g# 
+  Db    G     Gb    
+db  g#     a 
+Db G# a#   
+db  g#   B   
+ db     G#  bb 
+  db     G#    C     
+ Db     g#     D   
+  db g#  d#  
+ Db    G#   Eb     
+ Db G#   f# 
+Db     G#  G 
+  db    g#  Gb     
+ Db   Gb    ab 
+  db     gb  B   
+db  Gb C    
+Db     Gb d     
+ db Gb     D#   
+Db     Gb     e   
+  db  gb     Eb 
+  db  gb     F     
+ Db     Gb G 
+ Db    Gb    g# 
+ E     a     A#     
+e  A  Ab   
+ e A   B  
+ E     A Bb  
+  e    a   d  
+  e  a D#     
+ E  A     eb   
+  E A     f   
+  E   a F#     
+  E   a    G     
+ e  a     G#     
+  e A Gb 
+E    a# a    
+ E   a#    Ab     
+ e    a#     B 
+E A#     C 
+E A# c# 
+ E     A#   D  
+ E A#  D#     
+ E     A# db    
+e A#    Eb    
+  E  a#   f     
+E A#    f#  
+e     a# g  
+  E     a#     G#  
+  e   A#    gb 
+ E Ab a     
+  e     ab   a#    
+ e    ab   Bb  
+  e Ab    c 
+ E    ab    D     
+e    ab D#  
+E   ab    Eb     
+e    Ab    f     
+E     ab     f#  
+ e   ab g    
+e     ab    gb     
+ e   B  a   
+ E b     a#   
+  e  B  bb     
+ E   B  c  
+e   B   C#    
+  e  b     d 
+ e    b D#   
+  E   b   db     
+  e     B    Eb 
+E    B    f 
+  e B     F#     
+ e    b  gb 
+  E     bb    A 
+E    bb Ab 
+  E  bb  b     
+ e    bb C     
+ E  bb     c#     
+ e    bb  d     
+E    Bb  d#  
+  e   Bb     db     
+  e Bb    eb  
+ e    Bb    F   
+  E     bb   f#  
+ E  Bb   g     
+e Bb g#     
+  E     bb   Gb  
+  e     C    A#     
+E    c    ab   
+e    C  b   
+  e    c bb 
+e   C    C#   
+ e  C     D   
+ E C     D#    
+e     C    Db    
+  E   C   Eb     
+  E   c    F    
+e   c    f#  
+ e  C  g# 
+ E     c Gb   
+e     c# a#  
+  e     c#  b     
+ E    c#    bb   
+E   C#    C 
+ e C#    d 
+ E C#    d# 
+ e C# Eb   
+E C# f 
+ e    c# F# 
+  E    C# G     
+e  C#  gb   
+ e  d    A   
+  E  d A# 
+  E   d  Ab    
+  e   D b 
+ e     D   bb   
+e    D    C 
+  e   D     C# 
+e    d     D#   
+ E   d    Db     
+e D     eb     
+ e    d  F     
+ e    d  F#  
+ e d   G    
+  e d  G#     
+E d gb 
+ E     D#    A   
+ E   d#     a#     
+e   d#    ab 
+  e    D#    b     
+E     D#     bb  
+  E  d#  c 
+e     d# c# 
+  E     D#   D 
+  E   d#    db  
+ E  d#     F 
+ E  d# f#  
+ e    D#  g    
+e     D#   G#     
+ E    D#  Gb     
+E   db     A#     
+  E Db    b     
+ E   db   Bb  
+E   Db C     
+  E     Db   D  
+  E   db     d# 
+e db eb    
+ E    db     f     
+  E   Db f# 
+  E    db g    
+  e Db     Gb    
+ E  Eb    A   
+e  eb A#  
+E   Eb    ab  
+E eb     b    
+e    eb     bb  
+  E   Eb     c    
+e     eb   c#    
+  e    Eb  d  
+ E     Eb   db   
+ E    eb    F    
+  E  eb  f#    
+e    eb   G  
+e     eb  G#     
+ e     Eb   gb 
+ e   f   A     
+  e     f  a#  
+ E     f   ab   
+e  f  b  
+ E   F    bb     
+  E    F     C     
+e F C#    
+E    f    d  
+  E f     D#    
+ E   f  db     
+  E     F Eb 
+ e    f   f# 
+e    f g  
+  E    F g#  
+ e     f  gb  
+E  F#  a  
+e     F# A#     
+ e    F# Ab    
+ e  F#   b   
+  e     f#  Bb 
+E   F#    c    
+ e     f# c#    
+  E     f#  d     
+  e     f#   d# 
+E     f#  Db    
+ e f#   eb    
+ e  F#    F  
+E  F#  g   
+e    f# G#    
+  e    g    a  
+E g    A#    
+ e     G   ab   
+E    g    Bb    
+e g  C#  
+e    g   D 
+e G  D#    
+ e     G     Db  
+E   g   Eb     
+  E  g    f    
+  e     G f#     
+ e   G   G#    
+e  G  Gb 
+  e  g#   a     
+e     g#     a#    
+ e     g# bb     
+e   G#  c 
+ e    G#   d   
+E    g# D#   
+  e  g#    Eb     
+  E G#   f    
+  E     G# f#   
+e   g#  G     
+  e g#     gb    
+ e    gb   A     
+E    Gb A# 
+E gb     ab   
+E gb    B     
+e  Gb   Bb     
+e   Gb   C  
+ E    gb  C# 
+e   gb   d  
+E   Gb  D#  
+ e     Gb db 
+ E  Gb    eb   
+e     Gb    F    
+E   gb     g  
+e    Gb  G# 
+ Eb    a a#     
+Eb A   ab    
+ Eb     a    b   
+eb    a bb 
+  eb   a    C 
+  eb   a     c#   
+  eb    A    D  
+Eb   A db    
+ Eb A   E   
+  Eb   A   f 
+ Eb     a    F#    
+ eb A g 
+ Eb A g#  
+Eb    A    Gb 
+eb A# A 
+ eb A#  ab    
+Eb A#    B  
+  eb    A#     C    
+eb a#   C#    
+  Eb  A# d     
+  eb    A#  Db    
+ Eb a# e  
+eb  a#  F   
+ Eb   a#    g#  
+eb    Ab   A 
+ eb  ab  A#   
+  Eb    ab     bb 
+ Eb Ab     C#     
+Eb    ab  d    
+Eb     Ab   db  
+ Eb  ab   E     
+ eb     ab    f     
+ Eb  Ab f#    
+Eb     ab   g    
+ eb  ab Gb     
+eb    B  A     
+Eb B   a# 
+  eb     b bb    
+Eb  b    C   
+eb     B     C#    
+eb   b  d  
+Eb     B    Db 
+Eb     B     E     
+  Eb     B   f  
+  Eb    B     g 
+  eb  Bb A     
+Eb bb ab   
+  eb    Bb    B   
+Eb bb   C 
+ Eb Bb   c#  
+Eb Bb     D    
+Eb  Bb     Db    
+  eb Bb E   
+Eb    bb     F 
+ eb     Bb G#   
+ eb   C     A    
+Eb    c    A#    
+  Eb   c   B   
+  Eb  C  Bb    
+  Eb  C   C#  
+ Eb    c     D    
+ Eb     c   Db  
+  Eb     C    E   
+eb     C f 
+eb  C     f#     
+  Eb   c  gb     
+ Eb    C# A 
+Eb   c#     a#     
+  eb     C# ab    
+  Eb    C#  B 
+eb  c# bb     
+eb   c# c  
+Eb  c#     D     
+  Eb    c#  e   
+ eb  C# F    
+  Eb   c#   F# 
+eb     c#     g     
+  Eb  C# G#   
+  eb c#     Gb     
+eb  d     A     
+eb    d a#    
+ eb   D Ab     
+Eb   d     B    
+eb    d     Bb 
+Eb    d     c 
+  Eb d   C#    
+ eb  d   db   
+eb d     e 
+ Eb D F  
+ Eb   D   f#   
+  eb d  G     
+  Eb   d     g#    
+eb    D Gb     
+ Eb   db A    
+eb  db     A# 
+  eb     Db   Ab  
+Eb  Db     b    
+ eb Db   bb 
+eb db   C   
+eb   Db  d 
+eb    Db     e     
+  Eb     db f   
+ Eb  db f#     
+  eb Db   g     
+ eb   db G#  
+ Eb Db  gb   
+ Eb   E  a    
+ eb  E   a# 
+eb    E    Ab 
+  Eb   E    b  
+ Eb   E  bb     
+ eb  e c     
+eb   e C#    
+eb e     d    
+eb   E    db 
+eb  E   F    
+eb    e    f#   
+  eb    e   G 
+ eb     E G# 
+ eb  e  Gb 
+ Eb  f  A     
+  eb  F    a#     
+  eb    f  Ab  
+  eb   F   B     
+Eb   F    Bb 
+  Eb  f    C   
+eb f    C# 
+  eb  f d  
+eb     f    Db   
+eb    f    E    
+Eb  f   F#   
+ eb     F   G   
+  eb    F  g#  
+ Eb     f     gb   
+  Eb   f#   A  
+ Eb     f#    Ab    
+eb   F# C    
+ Eb F#    c# 
+  eb   f#  d   
+eb     F#     db   
+Eb     F#  E    
+  Eb  F# F    
+eb    F#  g  
+eb    F#   g#   
+ Eb G   a   
+Eb   g     Ab  
+ eb   G b 
+ Eb  g   c#  
+eb g     D     
+eb   g   Db   
+  eb   g    e     
+  eb   G f     
+  Eb g     f#     
+Eb G   g#     
+eb   g     gb     
+  eb G#    A    
+Eb  G#  a# 
+eb     g#   bb   
+  Eb  G# C# 
+eb  G#  D     
+eb   g#  db    
+eb   G#   e   
+ eb G#  F     
+Eb     g#     F#    
+ eb g#     G  
+ eb   G# gb     
+  Eb   gb   A   
+ Eb     gb     ab  
+ Eb gb c     
+eb   Gb    C#   
+Eb   gb  d 
+eb    gb   db    
+ Eb   Gb     E  
+ Eb  gb   f   
+  Eb  Gb   G    
+eb gb g#   
+  f     A A#   
+  F    a   Ab     
+  F a   b   
+ f  A  bb   
+f  A  c#   
+ F    a    d#    
+ F  A   db     
+  f     a   e   
+  F   A  eb    
+ F     a f#  
+  f   a    G     
+f     a   G#   
+  F   a    Gb  
+F     A#  A     
+f     a#  ab  
+ f A#  b  
+f A#    c     
+  F  a# d#   
+  F  A#    E     
+  F    a# eb   
+  F    A#  f# 
+f    a#  G    
+F     A# G#    
+f    a# Gb     
+  F  ab a   
+  f  Ab  A#    
+F    ab     B     
+f   Ab     Bb  
+ f     ab  D 
+f  Ab    D#     
+f    Ab    E   
+  F    ab eb 
+ F   Ab F#    
+  F    ab    g    
+  f ab Gb    
+ f  b    a 
+  F    B  A#   
+ f     b     Ab  
+f  b   Bb  
+f     b    c    
+ F     b  C# 
+ f  B D  
+  f  b   D# 
+ f B Db 
+F     B  E 
+  f    b    Eb   
+ f   b   F#     
+ F    B    g 
+ F  b   G# 
+ F  b   gb     
+ F bb  A     
+  F  bb  ab    
+  f  bb    b    
+  f    bb  c   
+ f     Bb     d#    
+  f   bb   e 
+ f bb     eb 
+  F bb  f#     
+ F    Bb G  
+F bb    G#     
+F Bb    Gb  
+F    C A#  
+ F   c    b  
+  F    c bb    
+ F     C     C#    
+ F  C    d  
+f   c  d#     
+ F     c    Db     
+f   C     e  
+ F     C Eb 
+F  C    F#  
+  f C    G   
+ F c    Gb     
+  F    c#    a  
+f  c#  b    
+f    c#   C   
+  f   C# D   
+F     c# D#  
+  F   c# e    
+ F    c#   eb  
+  F c#     F#  
+ F     C# G   
+ f  c#    Gb    
+  F     D     ab 
+ f  d B     
+ F  D   C 
+f    D  c# 
+ F d   d#   
+f  D     Db     
+f     d    e    
+  F     d  eb  
+  F    D    F#  
+ F    d    G   
+ f     D   G#  
+ F   d     gb     
+ f d#  A  
+ f     D#    A# 
+ f  d#  ab    
+F d#     B     
+ F    d#  bb  
+F   d#   c   
+F   D#  c#   
+f d#    D    
+ f  d#     Db 
+  f    D#   e     
+  f     d#   F#  
+  F D# g    
+F    D#     g#  
+ F  d#     gb   
+  F  Db     A   
+ f    Db    B    
+  f    Db C  
+f Db  D     
+ f     db D#  
+  f Db    e 
+ f    Db     eb  
+ f   Db  f#    
+f    Db    G   
+  f     Db    gb  
+  f E A 
+ F     e    a#     
+  F   e  Ab    
+ f     E     B    
+f E    bb 
+ f    E     C   
+ F   E   C#     
+ f e     d   
+  f    e     d# 
+f E     db   
+F  e  eb   
+f     E F#    
+F e    G  
+F   e     g# 
+f  e Gb 
+ F  Eb a  
+F   eb     a#     
+ f Eb   Ab     
+ F Eb b  
+  f eb    bb 
+  F  eb c     
+  f eb     c#     
+ f  Eb D     
+F    eb   db     
+F    Eb  e    
+F    eb f#    
+  F     Eb  g    
+  f    Eb     g#    
+F  Eb  Gb   
+ f  F#     a     
+  F F#   a#  
+f f#  ab   
+ F    F#     B 
+F f#  Bb     
+F    F#  C    
+  f f# c# 
+f   F#   d 
+  F f#     D#   
+f    f# db    
+ f  F# E  
+f F#     Eb    
+F    f# G    
+ F     F#    G#   
+f   g     a  
+  F  g  a#   
+f g     ab  
+F     g   B 
+  f    g    Bb 
+ F g  c  
+  f   G     c#  
+f g    D  
+  f G     d#   
+  F  G   db     
+ F G E   
+f     G     Eb     
+  f   G F#   
+ f  g G#   
+ F    g    gb   
+ f    g#     a 
+  f     G# A#  
+ f G#     b   
+f g# bb   
+f    G# D    
+f G#  d#    
+  F     G#    E   
+ f  G#     Eb     
+ f    G#  f#  
+f  g# g   
+F   G#     gb 
+f     Gb  a     
+F gb    A#  
+f  gb   ab     
+F  Gb   B     
+  f     gb    Bb 
+f   Gb     c  
+F     Gb C#     
+  f     Gb    d 
+ f Gb d#     
+ f gb     Db 
+ F    Gb   e   
+ f  gb eb 
+ f  Gb  g   
+  f     Gb  G#  
+f#   a    a#    
+ f# a Ab    
+F# A     B   
+ F# A   Bb 
+f#    a  C 
+f#  a  D#   
+ F#     A    e    
+ f# A     eb 
+f#   A   F 
+  f#  a  G   
+ F# A  g#     
+F#   a#  a     
+ f#    a#  ab    
+ F#    a# b 
+ F#    A# C   
+F#     A#    D    
+F#  a#     E   
+f#   A#  F  
+F#    A# G 
+  f#     A#  G#   
+  F#   Ab     A   
+  f#     Ab A# 
+ F#     ab b 
+  f#  Ab  bb   
+ F#  Ab  c    
+F# ab     C#  
+  f#  Ab D    
+  f#   ab  d# 
+f#    Ab     db 
+f#     Ab     E   
+f#  ab   eb     
+ F#    ab F     
+ F#    Ab     g   
+ f#    b    a 
+F#  B    A#  
+f#     b  Ab  
+  F#     B  Bb    
+ F#   B c  
+  F#  B c#     
+f#    b     db   
+ f#    b  e     
+ f#   B  f  
+ F#     B  G   
+f# B    G#    
+  f# bb   a     
+  f#  Bb     ab   
+ f#    bb  b    
+F#     Bb   c    
+ F# Bb d 
+ f#   Bb     e     
+  f#  Bb  F 
+  F# bb  g  
+F#  Bb   g#   
+ F#    C  A    
+  F#  C    a# 
+F#   c     Ab   
+F# c     b  
+  F# C  Bb    
+  F#   C    c# 
+F#   C    D  
+ f#  c D#   
+f#   C     Db  
+f#   c   E    
+F#    C   Eb   
+f#    c    F    
+ F#     c   g  
+ F# c     G#  
+  f#    C#  Ab    
+ F#  C#  B  
+F#     C#    C 
+  f#  c#     D   
+ f#    C#  D#     
+  f#    c# e  
+F#  c# Eb    
+ f#    C#   f     
+  f#  c#   g   
+f# c#  G#  
+ f#    d a# 
+ F# D  Ab     
+ F#     D   bb 
+F#     d    C    
+ f#  D    C#    
+ F# D  D#    
+  f#     d     Db     
+ F#     d e 
+f#    d   Eb 
+ F#     d  f     
+f#     d    G    
+F#     D  G#    
+f#     d#  a  
+F#     d#   Ab  
+ F#  D#    c    
+F#     D#    c# 
+f#  d#   d     
+ F#    d#    db    
+f#   d#     e 
+F#    D#  f     
+F#    d#  g 
+  F# D# G#     
+ f#   Db  ab 
+ f#  Db b     
+f# Db    c    
+f#    db  D  
+F#  Db   D# 
+ f#    db    E     
+  f# Db     Eb 
+  f#  db     F   
+f#    Db     g   
+  F#  db  g#     
+  f#    e  a  
+  f# e a#     
+ f#  e  ab     
+  f#     E  b    
+F# e   Bb 
+ f#  E   C 
+ f# e  C#    
+  f#   e     D 
+  f#     e  d# 
+ f#     e   Db  
+f#     e eb 
+  f# e    F 
+F#  e    G     
+ f#    E    g#   
+F#  eb   A 
+f#  eb ab     
+ F#    eb C 
+  F#    eb     c#    
+  f#    eb   d   
+  f#     eb db   
+  F# eb  e     
+  F#     Eb f  
+ f# eb  g   
+  f# Eb G#  
+  f# F  A     
+f# F A#    
+F#     F    ab    
+ F#     f   b  
+  F#    f   Bb     
+ F#  F   c     
+f#   f   c# 
+ F#     f  D   
+F#  f    d#    
+  f#   F  db     
+F#   f     e     
+  f#   f     Eb   
+F#   F  G  
+ f#   F     g#   
+ f#   g     a   
+f#    g     a#     
+  f#   G ab   
+f#     G  B     
+  f# G   Bb   
+F# g    c   
+  F#  g     c#   
+ F#    G   D    
+ F#  G   D# 
+ F#    G   Db   
+  f#  g   e     
+  F#   g  Eb   
+  f#  G   F   
+f#   G   g# 
+f#    g# A 
+  f#     G# a#     
+  F#   g# B 
+ F#  G# bb     
+  F# G#     C  
+F# G#  C#  
+f#    g#  D 
+  F# G#    D#    
+f#    G# Db     
+F# g#     e   
+  F#     G#  eb  
+f#   G#     F 
+ f#     g#     G    
+ g    a    A# 
+G     A Ab  
+  G    A  B     
+g   a     Bb    
+  G  A   c  
+ G    a c#    
+G A  d     
+G     A   D#     
+  g    A   db    
+ G    a     E  
+G    A    Eb   
+ G  A f    
+g   A   f#    
+  G   A   g#     
+  G     A gb  
+  G     A#  A  
+  g     a#   Ab     
+  G   a# b    
+ G   a#   c   
+g A#  c#     
+  G    a#     Db 
+  G a#     e     
+  g  a#     F  
+  G    a#  f#    
+ G    a#    G#   
+ G     A#  Gb     
+G Ab   A   
+g Ab  A# 
+  g     Ab b     
+g    ab Bb    
+G     ab     c 
+  g    Ab   c#  
+ G Ab    d   
+ g Ab     D#   
+g    Ab Db 
+ g     Ab   e 
+  g  ab  Eb     
+G ab    f  
+ G   Ab   F# 
+  g   ab     Gb     
+  g b a    
+G   B     a#  
+  G   B ab  
+ G   B  Bb  
+ G     B C   
+  g    b    C#     
+ g B  D#   
+ G  B     Db    
+  G    b     eb  
+ G     B   f  
+  G     B    f# 
+ g  b     g#   
+g b gb     
+  G bb  A     
+  G    bb Ab   
+  G   Bb  B     
+g  Bb     c   
+  g  bb c#  
+  g    Bb     Db 
+  G     bb  e 
+ G  Bb  f 
+  g     bb f# 
+ G Bb    g#     
+g Bb gb  
+ G  C  a 
+  G c  A#     
+  G    c   ab     
+  g   c    b  
+ G   c    Bb     
+ g    C C# 
+g    c    D 
+ G    c  db  
+  G   c F     
+ G   c   F#   
+  g     c     g#     
+ g     c Gb     
+  G    c# a  
+ g     C#  A# 
+  g  C#  Ab     
+  g   C#     b     
+ g C#     bb   
+g    c#     C     
+g     c#   D 
+ G     c#    d#    
+  G   c#   E   
+ g  c#     eb   
+ G c#  f  
+G     c#  F#     
+ G   C#     g#   
+g  C#    gb 
+ G     d A     
+g  d   Ab 
+  G  D     c  
+ g D     c#    
+G D    d# 
+ g d   db 
+  g D   E     
+  g     D     Eb    
+G  D     f  
+G  D   f#  
+  G     D G#     
+g    d    Gb 
+ g d#  A     
+  g     D#  Ab    
+ g   D#     B  
+ G  d#     C#  
+ g   d#  D  
+G   d#     db 
+ G  d#  E 
+ G   D#  F  
+G  d# f#  
+ G   d#  G#  
+  g     D# Gb    
+g    db A  
+ G    Db a# 
+g   Db Ab    
+ G   Db   b   
+ g  Db     Bb   
+g db    c     
+G    db  d   
+g db   D#  
+ g  db   e 
+g   db eb   
+G    db     F    
+  g db     F#     
+  g   db    g#  
+  G   Db     gb     
+G  e    a     
+G  E A#     
+  g    e     ab 
+  g    e    bb     
+G    e  C#    
+  g    E D   
+ G   E     D#     
+G    E   Db   
+ g  E     eb 
+g E F    
+  G  e     f#    
+g E  g#  
+g E    gb 
+ g     Eb   a 
+g     eb    Ab 
+  g     eb  B 
+ g     eb     c#     
+  G    Eb  D   
+g     eb db   
+ G eb     e     
+G  eb   f  
+ g Eb F#   
+G    Eb  g# 
+g    Eb  gb    
+  G     F   a    
+G f     a#  
+ G    f Ab     
+  g   F   b     
+ G  f   bb  
+g   F  c    
+g   F     c#     
+G  F   d     
+g   f     D#   
+g     F    Db 
+  G  f     e   
+  G   F eb    
+  G F    f# 
+g     f     G# 
+  G F    Gb     
+ G F#    A     
+ G     f# A#     
+  g F#  Ab     
+ g     f#    b    
+  g     F#     bb  
+G   f#   c  
+ G f# C# 
+g   f# d     
+g     F#     d#    
+  g  F#   Db  
+  G   f#     e    
+g     F#    Eb   
+g     F# f    
+ G   F#     G#  
+G     G#     a 
+  g  G#   A# 
+ G    G#   b     
+G     g#   bb   
+  G  G# C  
+G    g# C#     
+  G g#   d     
+ g G#   d#    
+  G   G#   db 
+g   g#     e  
+  G     g# eb 
+ g    g#  f  
+G g#     f#    
+  g G# gb  
+  g    Gb A    
+ G  gb     a# 
+  g   Gb     Ab    
+g Gb    b     
+ g   Gb     bb     
+  g Gb  C     
+G Gb  c#     
+ G     Gb D 
+G  gb   d#    
+ g   Gb   Db     
+ G gb    e     
+G Gb   Eb  
+ G  gb  f 
+ G     Gb     G#  
+  g#    a  A#   
+G#  A     B 
+G#   A   Bb    
+  G#     A     C     
+  g#  A    C#   
+ G#     a     d    
+g#     a    d#  
+ G# A  Db     
+G#  A e 
+ G#    a   Eb    
+  G#    A F     
+g#     a   f# 
+ g#    A g 
+  g# a     Gb   
+G#    A#   a     
+ G#     a#   b  
+ G#     a# C 
+ g#   A#   C# 
+g#    a#    d     
+  G# a# d#  
+  g#    A#     db     
+ G#    A#     E  
+  g#  A#  Eb     
+ g#   a#     f  
+  G#   A#   f# 
+g#     a# g    
+G#    a#  gb    
+  g#     B   a    
+ G#    b a# 
+  G#     b    Bb     
+G# B   C  
+ g# b    C#   
+  g#     b D    
+G#   B  db 
+ g#  B   f 
+ G#  B  f#    
+G#     b   g 
+g#  B    Gb    
+g#    Bb     A  
+G#    Bb  B 
+ g#   Bb     C     
+ g#   Bb   c#    
+  g#   bb D     
+g#   bb  d#   
+ G#     Bb   db    
+ G#    bb    E     
+  G#   Bb     Eb     
+G#     Bb    f  
+  G# bb  F#  
+ G#   bb  g    
+ g# bb     gb 
+ G#  c    A   
+  g#    C    a#  
+ G# c   b     
+g#     C    bb  
+ g# c     c#    
+g#     c d 
+ G#  C Db    
+  G# c     e 
+  g#    C  F#     
+  g#  C  G     
+ g#     c  Gb     
+  g#     c# A     
+G#    c# A# 
+G#     C#    b   
+ g#   C#  bb   
+G#   c#  c    
+  G# c#   D    
+  G#   c#   d# 
+ g#    C#   eb 
+  G#     C#     F#  
+ G#  C#   G  
+ g# C#  gb   
+ g#  d  A    
+ G#     d a#     
+  G#    D b   
+ g#  D bb     
+G# d c     
+G#  d  c#  
+  G#   D d#  
+ g#  d    Db     
+  G#  d   E   
+  G#     D    eb    
+ G#     D   F   
+ G# D   f#  
+  G#  d   g 
+  G#     D   Gb   
+ g#     D#    a     
+ G#     d#     a# 
+ g# d#    Bb 
+G#  D#    C#     
+  G#     D#  d     
+G#     D# db     
+  G#   D#    E     
+  G#  D#   F    
+  g#   D#   f#    
+  g#     d#    g  
+g#   d# gb    
+  g#  db    A    
+g#     db    A#  
+  G#    Db  b     
+ g#    db     Bb     
+g# db  C    
+G#   db d   
+g#    Db  D#     
+ G#    db     eb     
+  g#   db   f#    
+G#    db   G 
+  g#    db Gb     
+  G#  E    a   
+ g# E  A#   
+G#  e   Bb  
+G#   E     c     
+  g#  E     d    
+ G#     e D#   
+ g# E  Eb  
+ g#     e   F   
+ g#    E f#   
+G#    e     G     
+ g#   e    Gb     
+G#  eb   A 
+g# Eb     A# 
+ G# Eb Bb  
+g#   eb  c#   
+ G#   eb D   
+ G#   eb    db   
+ g#  Eb   E   
+  G# Eb   f    
+  g#     Eb    f# 
+g#   eb    g  
+ G#    eb    Gb 
+ g#     f A     
+  g# F a#  
+ G# F B   
+  g#     f     bb    
+ g#     F    D  
+G#   f   D#  
+ g#   F   e    
+ G#  F eb     
+  G# f   F#   
+ g#    F     G   
+  g#   F     gb 
+  G#     F# A  
+ g# F#    A#     
+  G#  F# b  
+g#  f#     bb   
+  g#   f#   C   
+ G#    F#  c#  
+g#    f#    d  
+G#  F# D# 
+  G#    F# db   
+g#    F#    E     
+  g# F#     Eb  
+G#    f# f   
+ G#     f#  g    
+  g#   G  a  
+ g#    G   a#    
+  G#    G b   
+  G#  G    bb  
+g# G   c   
+ g# g  c# 
+g#   G    D     
+  G#  G d#  
+  g#  G  Db     
+g# G   E    
+  g#   G  Eb   
+ g#     G   f 
+g#   G    F# 
+g#    G gb     
+g#    Gb a  
+g#  gb    A#     
+ G#     gb    b    
+  G#  gb    Bb    
+  G#     Gb  c 
+  g#  gb C# 
+  g#  Gb     d     
+ G#    gb     D#  
+  g#  gb     Db 
+  G#   Gb  E   
+ G#  Gb     eb  
+g# gb  F  
+g# gb     G  
+  gb     A  a#    
+gb    A Ab     
+  gb A  b    
+gb  A    Bb    
+ gb     A  C    
+gb    A D#   
+ gb    a  e   
+ Gb  a Eb    
+gb     A  f   
+  gb   A   g  
+  gb a     G# 
+ Gb a# a  
+Gb   a#     ab    
+gb     a#   B   
+  gb a#  c   
+ Gb  a#    D 
+  gb   a# e     
+  Gb    A# f     
+ Gb     a#    G  
+  gb   a# G# 
+gb ab   a     
+  gb  Ab a#    
+ gb     ab     B     
+  Gb    Ab    bb   
+Gb   Ab C  
+ Gb    ab     c# 
+  Gb    Ab D 
+  gb  ab    D#     
+ gb     ab Db   
+gb   ab     e  
+ Gb     ab  Eb     
+Gb  Ab     f 
+ Gb    Ab  g   
+ gb     b     a     
+  gb    B   a#     
+  Gb   b     Ab   
+ Gb b  Bb     
+  Gb B    c  
+  Gb  B    c# 
+ gb  B db   
+Gb    B  e 
+gb   B   F 
+ gb    b  G     
+ Gb B g#    
+gb     bb a  
+ Gb Bb    ab   
+  gb     Bb    b 
+ gb     Bb  c     
+Gb    Bb    d   
+gb  Bb    e  
+Gb     Bb    F  
+Gb  Bb     g  
+ gb    Bb  G# 
+  gb C  a     
+Gb  C a#     
+  gb     C   Ab   
+ Gb  c    b   
+ Gb     C   Bb   
+  gb     C     c#     
+ gb    c d    
+gb  c    d#  
+  gb     C     db  
+ gb   c    e 
+ gb    C     eb 
+Gb   C   f   
+ gb   C  G    
+  gb   c   g#     
+  gb   c#   ab  
+  gb   C#  b  
+gb  C#     c   
+ gb     C#     D  
+ Gb    C# D#     
+ Gb     c#    E 
+  gb   C#   eb 
+gb    c#   f 
+ Gb c#  g  
+ Gb    C#     G#    
+ gb    D A#    
+ gb     D    Ab 
+  gb  d    bb    
+gb    D   C 
+ Gb D    C#   
+gb     d     d#    
+  gb  D   db 
+ gb   D  E   
+ Gb   d   Eb     
+  Gb    D    f 
+ Gb D  G   
+ gb   D     g#  
+  gb   D# a    
+Gb d#     Ab    
+ gb   D#    c     
+ Gb    d# c#    
+ gb    d#    D 
+  gb   D#     Db  
+gb D#   E     
+gb  d#     f     
+ Gb D#  g 
+ Gb     d#  g#    
+  Gb  Db Ab    
+  Gb  Db     B   
+ gb   db  C    
+Gb    db     D    
+ gb Db  D#   
+gb    Db     E   
+ gb  Db eb    
+ gb     Db    F  
+Gb    Db   g 
+ gb   Db    g#    
+  Gb E    A 
+  Gb  E  A# 
+Gb E    Ab     
+ Gb E  b 
+  gb  e bb 
+ Gb    E  C    
+  Gb  E    C#    
+Gb    e  d  
+  gb   E D#     
+  gb     e    Db  
+Gb    E   eb     
+gb     E     f 
+  gb     E     G     
+ gb     e g# 
+ gb    Eb   A     
+gb   eb ab    
+Gb     Eb   c  
+  gb   eb C# 
+Gb   Eb     D     
+gb     Eb   db  
+ Gb Eb    e    
+Gb   Eb   f   
+  gb    Eb     g     
+ Gb Eb   G#     
+ Gb    F  A   
+  gb   F   A#  
+Gb F   Ab    
+ Gb     F    b  
+Gb     f   bb    
+gb   f  c   
+  gb   F     C#     
+Gb     f    D  
+  Gb    f d#   
+gb     F  db   
+gb   F   E    
+Gb    f    Eb  
+ gb f g    
+Gb    F G#  
+ Gb     g  A 
+ gb   G A#     
+  Gb G    ab   
+Gb g     B 
+Gb   G Bb    
+Gb G   c    
+ gb   G c#  
+  gb   g  D 
+gb   g  D#   
+ gb g  db 
+Gb     G    E    
+Gb    g   eb   
+  gb G     f    
+Gb G  G#     
+  Gb g#   A    
+ Gb    g#     a#  
+ gb g#     b     
+ gb   g#   bb     
+  Gb G#  c    
+  Gb   G# c# 
+ Gb     G# d  
+  Gb g#   D#  
+Gb G#  db  
+ gb G#    E    
+ gb G# Eb    
+  Gb  G#  f    
+Gb     g# g    
